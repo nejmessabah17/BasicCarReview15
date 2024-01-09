@@ -12,5 +12,12 @@ public class Main {
         x.cylinders="8";
         x.size="A3";
         x.weigh="6453k";
+
+        color col= new color();
+        col.colorLights="True";
+        col.colorTyre="false";
+        col.colorWindows="True";
+
+
     }
 }
